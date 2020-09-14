@@ -8,7 +8,7 @@ metadata:
     - recommended
     - kotlin
 spec:
-  owner: johannes@zorns.eu
+  owner: guest
   templater: cookiecutter
   type: service
   path: '.'
